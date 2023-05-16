@@ -25,7 +25,7 @@ include __DIR__ . "/array.php" ;
                     <div class="col-4">
                         <div class="card m-3">
                             <div class="card-header">
-                                <h4>
+                                <h4 class="text-center">
                                     <?php echo ($movie->name) ?>
                                 </h4>
                             </div>
